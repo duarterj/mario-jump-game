@@ -8,7 +8,7 @@ Neste jogo o usuário entra em um clico aonde é possível ultrapassar ou colidi
 
 ## Mario Game:
 
-![Foto do jogo](mariogame.png)
+![Foto do jogo](readme/mariogame.png)
 
 ## Animação Mario Jump:
 
@@ -16,4 +16,4 @@ Neste jogo o usuário entra em um clico aonde é possível ultrapassar ou colidi
 
 
 ## Animação Mario Game-Over:
-![Foto animação Mario Game Over](mario_death.png)
+![Foto animação Mario Game Over](readme/mario_death.png)
