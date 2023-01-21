@@ -3,7 +3,8 @@
 ## Sobre o jogo: 
 O design e a estrutura do jogo é inspirada no clássico Mario Bros <br>
 Aonde o usuário entra em um clico aonde é possível ultrapassar ou colidir com os obstáculos <br>
-Obs: Realizei esse jogo assistindo o grande contéudo do Manual do Dev (Canal no Youtube) <br>
+
+# Obs: Realizei esse jogo assistindo o grande contéudo do Manual do Dev (Canal no Youtube) <br>
 
 ## Mario Game:
 
